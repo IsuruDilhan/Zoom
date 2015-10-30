@@ -8,7 +8,7 @@
 				require 'views/'. $name. '.php';
 			}
 			else{
-				require 'views/header/header.php';
+				require 'views/header/index.php';
 				require 'views/'. $name. '.php';
 			}
 		}
