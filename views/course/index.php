@@ -4,7 +4,7 @@
               <div class="caption">
                 <h3>You Don't Know JS</h3>
                 <p>...</p>
-                <p><a href="#" class="btn btn-primary" role="button">Enroll</a> </p>
+                <p><a href="<?php echo URL?>enroll" class="btn btn-primary" role="button">Enroll</a> </p>
               </div>
             </div>
             </div>
