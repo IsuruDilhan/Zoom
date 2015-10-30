@@ -1,5 +1,5 @@
 <?php 
-	define('URL', 'http://localhost/Zoom/');
+	//define('URL', 'http://localhost/Zoom/');
 	define('CSS', 'http://localhost/Zoom/views/css/');
 	define('VIEWS', 'http://localhost/Zoom/views/');
 	define('JS', 'http://localhost/Zoom/views/js/');
