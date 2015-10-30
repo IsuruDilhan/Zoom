@@ -1,55 +1,103 @@
-    <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#">Zoom</a>
+
+            <div class="col-sm-3 col-md-3">
+            <div class="thumbnail">
+              <img src="http://www.w3devcampus.com/wp-content/uploads/logoAndOther/logo_JavaScript.png" alt="...">
+              <div class="caption">
+                <h3>Thumbnail label</h3>
+                <p>...</p>
+                <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+              </div>
             </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav">
-                    <li>
-                        <a href="#">My Courses</a>
-                    </li>
-                    <li>
-                        <a href="#">Profile</a>
-                    </li>
-                    <li>
-                        <a href="#">Contact</a>
-                    </li>
-                </ul>
             </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
-
-    <!-- Page Content -->
-    <div class="container">
-
-        <div class="row">
-
-            <div class="col-md-3">
-                <p class="lead">Course Categories</p>
-                <div class="list-group">
-                    <a href="#" class="list-group-item active">Development</a>
-                    <a href="#" class="list-group-item">IT</a>
-                    <a href="#" class="list-group-item">Business</a>
-                    <a href="#" class="list-group-item">LifeStyle</a>
-                    <a href="#" class="list-group-item">Photography</a>
-                    
-                </div>
+            <div class="col-sm-3 col-md-3">
+            <div class="thumbnail">
+              <img src="http://www.w3devcampus.com/wp-content/uploads/logoAndOther/logo_JavaScript.png" alt="...">
+              <div class="caption">
+                <h3>Thumbnail label</h3>
+                <p>...</p>
+                <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+              </div>
+            </div>
+            </div>
+            <div class="col-sm-3 col-md-3">
+            <div class="thumbnail">
+              <img src="http://www.w3devcampus.com/wp-content/uploads/logoAndOther/logo_JavaScript.png" alt="...">
+              <div class="caption">
+                <h3>Thumbnail label</h3>
+                <p>...</p>
+                <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+              </div>
+            </div>
+            </div>
+    
+            <div class="col-md-3"></div>
+            
+            <div class="col-sm-3 col-md-3">
+            <div class="thumbnail">
+              <img src="http://www.w3devcampus.com/wp-content/uploads/logoAndOther/logo_JavaScript.png" alt="...">
+              <div class="caption">
+                <h3>Thumbnail label</h3>
+                <p>...</p>
+                <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+              </div>
+            </div>
+            </div>
+            <div class="col-sm-3 col-md-3">
+            <div class="thumbnail">
+              <img src="http://www.w3devcampus.com/wp-content/uploads/logoAndOther/logo_JavaScript.png" alt="...">
+              <div class="caption">
+                <h3>Thumbnail label</h3>
+                <p>...</p>
+                <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+              </div>
+            </div>
+            </div>
+            <div class="col-sm-3 col-md-3">
+            <div class="thumbnail">
+              <img src="http://www.w3devcampus.com/wp-content/uploads/logoAndOther/logo_JavaScript.png" alt="...">
+              <div class="caption">
+                <h3>Thumbnail label</h3>
+                <p>...</p>
+                <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+              </div>
+            </div>
+            </div>
+            <div class="col-md-3"></div>
+            <div class="col-sm-3 col-md-3">
+            <div class="thumbnail">
+              <img src="http://www.w3devcampus.com/wp-content/uploads/logoAndOther/logo_JavaScript.png" alt="...">
+              <div class="caption">
+                <h3>Thumbnail label</h3>
+                <p>...</p>
+                <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+              </div>
+            </div>
+            </div>
+            <div class="col-sm-3 col-md-3">
+            <div class="thumbnail">
+              <img src="http://www.w3devcampus.com/wp-content/uploads/logoAndOther/logo_JavaScript.png" alt="...">
+              <div class="caption">
+                <h3>Thumbnail label</h3>
+                <p>...</p>
+                <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+              </div>
+            </div>
+            </div>
+            <div class="col-sm-3 col-md-3">
+            <div class="thumbnail">
+              <img src="http://www.w3devcampus.com/wp-content/uploads/logoAndOther/logo_JavaScript.png" alt="...">
+              <div class="caption">
+                <h3>Thumbnail label</h3>
+                <p>...</p>
+                <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+              </div>
+            </div>
             </div>
 
-            <div class="col-md-9">
-
-                <div class="thumbnail">
+            <!-- <div class="col-md-9"> -->
+                <!-- Square card -->
+                
+                <!-- <div class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/800x300" alt="">
                     <div class="caption-full">
                         <h4 class="pull-right">$24.99</h4>
@@ -125,9 +173,9 @@
                         </div>
                     </div>
 
-                </div>
+                </div> -->
 
-            </div>
+            <!-- </div> -->
 
         </div>
 
